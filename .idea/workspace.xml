@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7bb2e4fd-ae19-4110-ae60-092c88d0701e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/changelog/changelog-master.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/changelog/changes/create-person-table-changelog-1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/changelog/changes/insert-person-table-changelog-2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/changelog/changes/update-person-table-precondition-3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/databaseDemo-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.example.database.databaseDemo.DatabaseDemoApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databaseDemo/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databaseDemo/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databaseDemo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databaseDemo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databaseDemo/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/databaseDemo/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databaseDemo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databaseDemo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databaseDemo/HELP.md" beforeDir="false" afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databaseDemo/_gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/_gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databaseDemo/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databaseDemo/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databaseDemo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databaseDemo/src/main/java/com/example/database/databaseDemo/DatabaseDemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/database/databaseDemo/DatabaseDemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databaseDemo/src/main/java/com/example/database/databaseDemo/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/database/databaseDemo/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databaseDemo/src/main/java/com/example/database/databaseDemo/PersonJdbcDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/database/databaseDemo/PersonJdbcDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databaseDemo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databaseDemo/src/main/resources/schema.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/databaseDemo/src/test/java/com/example/database/databaseDemo/DatabaseDemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/database/databaseDemo/DatabaseDemoApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databaseDemo/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databaseDemo/target/classes/com/example/database/databaseDemo/DatabaseDemoApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/databaseDemo/target/classes/com/example/database/databaseDemo/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/databaseDemo/target/classes/com/example/database/databaseDemo/PersonJdbcDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/databaseDemo/target/classes/schema.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/databaseDemo/target/databaseDemo-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/databaseDemo-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databaseDemo/target/databaseDemo-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/databaseDemo/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databaseDemo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/databaseDemo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/databaseDemo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/databaseDemo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/databaseDemo/target/surefire-reports/TEST-com.example.database.databaseDemo.DatabaseDemoApplicationTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/databaseDemo/target/surefire-reports/com.example.database.databaseDemo.DatabaseDemoApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.example.database.databaseDemo.DatabaseDemoApplicationTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/databaseDemo/target/test-classes/com/example/database/databaseDemo/DatabaseDemoApplicationTests.class" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="lookForNested" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QhmLl0tymBr48wusp3hWJw70IQ" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.DatabaseDemoApplication">
+    <configuration name="DatabaseDemoApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.database.databaseDemo.DatabaseDemoApplication" />
+      <module name="maven-archiver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.database.databaseDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabaseDemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.example.database.databaseDemo.DatabaseDemoApplication" />
+      <module name="databaseDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.database.databaseDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DatabaseDemoApplication" />
+        <item itemvalue="Application.DatabaseDemoApplication (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bb2e4fd-ae19-4110-ae60-092c88d0701e" name="Default Changelist" comment="" />
+      <created>1568231148857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568231148857</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
